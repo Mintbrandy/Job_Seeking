@@ -19,6 +19,7 @@
 | Groupon |  |  |  |  |
 | Yelp |  |  | Wechat | |
 | Quora | 11/10/2019 | [Quora Link](https://boards.greenhouse.io/quora/jobs/4418955002) | Wechat | |
+| Wish | 11/10/2019 | [Wish Link](https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea) | [1point3acres](https://www.1point3acres.com/bbs/thread-525113-1-1.html) | |
 | Twilio |  |  | Wechat | |
 
 
