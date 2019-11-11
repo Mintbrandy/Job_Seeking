@@ -27,6 +27,12 @@
 | :-----:| :----: | :----: | :----: |
 | Goldman Sachs | 11/10/2019 | [GS Link](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html)|  | 
 
+### To-do List
+Bloomberg
+Robinhood
+Arista Network(地里)
+Weride.ai(地里)
+
 ### No Headcount
 Airbnb, Lyft, Uber, Paypal, Yelp
 
