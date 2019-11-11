@@ -15,7 +15,6 @@
 | Lyft |  |  |  |  |
 | JP Morgan |  |  | |  |
 | Groupon |  |  |  |  |
-| Yelp |  |  | Wechat | |
 | Two Sigma | 11/10/2019 | [2 Sigma Link](https://careers.twosigma.com/careers/DashJobDetail/New-York-New-York-United-States-Quantitative-Software-Engineer-Campus-Hire/714) | [1point3acres](https://www.1point3acres.com/bbs/thread-549801-1-1.html) | |
 | Quora | 11/10/2019 | [Quora Link](https://boards.greenhouse.io/quora/jobs/4418955002) | Wechat | |
 | Wish | 11/10/2019 | [Wish Link](https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea) | [1point3acres](https://www.1point3acres.com/bbs/thread-525113-1-1.html) | |
@@ -30,7 +29,7 @@
 | Goldman Sachs | 11/10/2019 | [GS Link](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html)|  | 
 
 ### No Headcount
-Airbnb, Uber, Paypal
+Airbnb, Uber, Paypal, Yelp
 
 ### No Related Job Link
 ebay, Tableau, Strava
