@@ -18,14 +18,17 @@
 | JP Morgan |  |  | |  |
 | Groupon |  |  |  |  |
 | Yelp |  |  | Wechat | |
-| Quora |  |  | Wechat | |
+| Quora | 11/10/2019 | [Quora Link](https://boards.greenhouse.io/quora/jobs/4418955002) | Wechat | |
 | Twilio |  |  | Wechat | |
 
 
 ### Spray
 | Company Name | Date | Job Link | Update |
 | :-----:| :----: | :----: | :----: |
-|  |  |  |  | 
+| Goldman Sachs | 11/10/2019 | [GS Link](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html)|  | 
 
 ### No Headcount
 Airbnb, Uber, Paypal
+
+### No Related Job Link
+ebay, Tableau
