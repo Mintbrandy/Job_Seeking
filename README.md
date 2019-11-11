@@ -12,7 +12,6 @@
 | Oracle| 11/03/2019 | - | [1point3acres](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=565061&extra=page%3D1%26filter%3Dsortid%26sortid%3D192%26sortid%3D192) |  |  |
 | MicroStrategy| 11/03/2019 | [MicroStrategy Link](https://jobs.smartrecruiters.com/MicroStrategy1/743999697745288-associate-software-engineer?rsid=90c32478-1316-431c-9ba9-eb9d69f1eba4&refChan=PORTAL) | &radic; |  | 投错了Orz |
 | Adobe dxc | 11/03/2019 | [Adobe Link](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Seattle/Software-Engineer-New-College-Hire--Adobe-Digital-Composite-Technology--DCX-_80436)| &radic; |  |  |
-| Lyft |  |  |  |  |
 | JP Morgan |  |  | |  |
 | Groupon |  |  |  |  |
 | Two Sigma | 11/10/2019 | [2 Sigma Link](https://careers.twosigma.com/careers/DashJobDetail/New-York-New-York-United-States-Quantitative-Software-Engineer-Campus-Hire/714) | [1point3acres](https://www.1point3acres.com/bbs/thread-549801-1-1.html) | |
@@ -29,7 +28,7 @@
 | Goldman Sachs | 11/10/2019 | [GS Link](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html)|  | 
 
 ### No Headcount
-Airbnb, Uber, Paypal, Yelp
+Airbnb, Lyft, Uber, Paypal, Yelp
 
 ### No Related Job Link
 ebay, Tableau, Strava
