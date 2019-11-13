@@ -26,7 +26,6 @@
 | Company Name | Date | Job Link | Update |
 | :-----:| :----: | :----: | :----: |
 | Goldman Sachs | 11/10/2019 | [GS Link](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html)|  | 
-|
 | RobinHood | 11/12/2019 | [RH Link](https://careers.robinhood.com/openings?gh_jid=221794)|  | 
 
 ### To-do List
