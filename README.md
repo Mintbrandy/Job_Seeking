@@ -23,10 +23,11 @@
 | Twilio |  |  | Wechat | |
 
 ### Spray
-| Company Name | Date | Job Link | Update |
+| Company Name | Date | Job Link | Updates |
 | :-----:| :----: | :----: | :----: |
-| Goldman Sachs | 11/10/2019 | [GS Link](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html)|  | 
+| Goldman Sachs | 11/10/2019 | [GS Link](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html)| OA on 11/12/2019 | 
 | RobinHood | 11/12/2019 | [RH Link](https://careers.robinhood.com/openings?gh_jid=221794)|  | 
+| Walmart | 11/12/2019 | [WLMT Link](https://careers.walmart.com/us/jobs/WD99412-campus-recruiting-full-time-software-engineer-software-engineer-1-ecomm) | |
 
 ### To-do List
 Bloomberg
